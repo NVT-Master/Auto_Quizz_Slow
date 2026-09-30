@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+config.json
+config.json.bak
+*.bak
+answer_history.jsonl
+test_shot.jpg

@@ -1,0 +1,24 @@
+{
+  "provider": "gemini",
+  "api_key": "PASTE_YOUR_GEMINI_API_KEY_HERE",
+  "model": "gemini-3.5-flash-lite",
+  "capture_region": null,
+  "click_points": {
+    "NEXT": null
+  },
+  "delay_between_questions": 0.1,
+  "auto_click_next": false,
+  "screenshot_max_width": 1600,
+  "jpeg_quality": 88,
+  "answer_to_next_delay": 0.2,
+  "screen_change_poll_interval": 0.15,
+  "screen_change_timeout": 6.0,
+  "capture_mode": "region",
+  "capture_window": null,
+  "enable_fallback": false,
+  "min_confidence": 0.0,
+  "fallback_min_margin": 3,
+  "verify_answer": false,
+  "verification_min_confidence": 0.75,
+  "google_grounding": false
+}
